@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f9ff; /* Warna latar belakang */
+}
+
+.login-container {
+    width: 70%; /* Lebar kontainer */
+    margin: 50px auto; /* Posisikan kontainer di tengah */
+    background-color: #ffffff; /* Warna latar belakang kontainer */
+    padding: 20px;
+    border-radius: 10px; /* Tambahkan sudut bulat */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Tambahkan bayangan */
+}
+
+h1 {
+    text-align: center; /* Posisikan judul di tengah */
+    color: #4d94ff; /* Warna teks */
+}
+
+.title-login {
+    text-align: center; /* Posisikan judul form di tengah */
+    color: #333333; /* Warna teks */
+    margin-bottom: 20px; /* Tambahkan margin bawah */
+}
+
+label {
+    display: block; /* Jadikan label sebagai blok elemen */
+    margin-bottom: 5px; /* Tambahkan margin bawah */
+    color: #666666; /* Warna teks label */
+}
+
+.input-login {
+    width: calc(100% - 20px); /* Lebar input */
+    padding: 8px; /* Padding input */
+    margin-bottom: 10px; /* Tambahkan margin bawah */
+    border: 1px solid #cccccc; /* Tambahkan garis tepi */
+    border-radius: 5px; /* Tambahkan sudut bulat */
+}
+
+.login-foto {
+    margin-bottom: 10px; /* Tambahkan margin bawah */
+}
+
+button {
+    width: calc(100% - 20px); /* Lebar tombol */
+    padding: 10px; /* Padding tombol */
+    background-color: #4d94ff; /* Warna tombol */
+    color: #ffffff; /* Warna teks tombol */
+    border: none; /* Hapus border */
+    border-radius: 5px; /* Tambahkan sudut bulat */
+    cursor: pointer; /* Ubah kursor menjadi pointer */
+}
+
+button:hover {
+    background-color: #3385ff; /* Warna tombol saat dihover */
+}
+
+a {
+    display: block; /* Jadikan tautan sebagai blok elemen */
+    text-align: center; /* Posisikan tautan di tengah */
+    margin-top: 10px; /* Tambahkan margin atas */
+    color: #4d94ff; /* Warna tautan */
+    text-decoration: none; /* Hapus garis bawah pada tautan */
+}
+
+a:hover {
+    text-decoration: underline; /* Tambahkan garis bawah saat tautan dihover */
+}
