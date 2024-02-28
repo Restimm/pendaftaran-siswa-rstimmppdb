@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Selamat datang Di SMK NEGERI 1 BANDAR LAMPUNG</title>
+    <title>Selamat datang Di SMK NEGERI 1 AIR PUTIH</title>
     <link rel="stylesheet" type="text/css" href="css/index1.css">
 </head>
 <body class="index">
